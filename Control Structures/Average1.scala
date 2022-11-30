@@ -1,5 +1,5 @@
 //Q1) Write a program to calculate average of all numbers between n1 and n2.
-object HelloWorld {
+object Average1 {
 	def main(args: Array[String]): Unit = {
 	  var n1 = scala.io.StdIn.readInt();
 	  println("Enter the number :--> ")
